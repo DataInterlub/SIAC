@@ -258,33 +258,31 @@ Estas funciones son clave para la toma de decisiones, ya que permiten identifica
 <p style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;">
      - Dentro de este conjunto destaca el módulo de <span style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;color:#B0895A;">Conversión de Unidades</span>, el cual permite homologar las unidades de medida 
     (<i>kilogramos, litros, piezas, etc.</i>) para asegurar consistencia entre compra, almacenamiento y venta.
-    
-    </p>
+</p>
+
 <p style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;">
-         - Deteccion nos permite obtener toda la informacion relevante de la materia prima que esta siendo modificada en su precio, y dispara el sistema.
-    </p>
+         - Deteccion nos permite obtener toda la informacion relevante de la materia prima que esta siendo modificada en su precio, y dispara el sistema.</p>
 <p style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;">
-         - PrecioProducto nos permite tomar el ultimo precio con respecto al registrado al sistema.
-    </p>
+         - PrecioProducto nos permite tomar el ultimo precio con respecto al registrado al sistema.</p>
 <p style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;">
          - AreasProducto nos permite obtener que areas de la empresa manejan esa formula.
-        </p>
+</p>
 <p style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;">
          - FormulaProducto nos permite visualizar con respecto a cada materia prima, y sobre todo con la que esta subiendo en ese momento o esta siendo impactada con respecto a un precio nuevo; Cuales formulas utilizan esa materia, asi pudiento extraer datos como - Moneda de compra, Codigo Articulo, Ultima fecha de transaccion, Unidad de medida en Inventarios como en Almacen y otros - .
-        </p>
+</p>
 <p style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;">
          - PrecioFormulas como su nombre lo indica os permite calcular parametros como si subira de precio con respcecto al parametro del 5% alguna formula, en caso de que si entonces se indexa a la informacion que va a ser retornada. Datos como - Costo Promedio , Costo Nuevo, Nombre del Producto -, son algunos de los parametros que toma.
-        </p>
+</p>
 <p style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;">
          - TransfomacionFormula se complementa con otras funciones de la seccion siguiente, que en caso de que haya una discrepancia en medidas, retornara cual seria su Factor y Porcentaje con respecto al nuevo cambio de medidas y ajuste que se le realizo.
-        </p>
+</p>
 <p style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;">
          - PrecioPonderado como su nombre lo indica busca sacar el precio ponderado de cada una de las funciones, tomando en cuenta el parametro de informacion, que son todas las formulas con su respectivo incremento de porcentaje, y indexacion de informacion de los alementos que anteriormente comentamos, que se apoya en la funcion "Calculo" para poder calcular el impacto con respecto a cada formula.
-        </p>
+</p>
 <p style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;">
          - Calculo en este caso como lo comentamos anteriormente es exclusivameente para poder sacar el impacto de cambio que la funcion de "PrecioPonderado" retorna en informacion como uno de sus parametros en un json.
-        </p>
-.
+</p>
+
 
 
 
