@@ -61,7 +61,6 @@ Este sistema permite a los vendedores tomar decisiones informadas mediante el an
 <br>
 
 <hr style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;border: 1px solid #333;">
-<hr style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;border: 1px solid #333;">
 
 <h2 style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;color:#B0895A;">Librerías</h2>
 
