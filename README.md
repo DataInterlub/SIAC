@@ -252,7 +252,7 @@ Estas funciones son clave para la toma de decisiones, ya que permiten identifica
 <h3 style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;color:#B0895A;">Descripción</h3>
 
 <p style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;">
-     - Esta sección agrupa las funciones encargadas de procesar la <b>información general del sistema</b> y ejecutar el flujo completo de análisis.
+    Esta sección agrupa las funciones encargadas de procesar la <b>información general del sistema</b> y ejecutar el flujo completo de análisis.
     </p>
 
 <p style="font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;">
